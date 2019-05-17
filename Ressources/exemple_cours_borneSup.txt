@@ -1,10 +1,13 @@
 exemple_cours.txt
-3
+6
 1 8 0
-2 5 34
-3 3 65
+2 5 62
+3 3 118
+1 8 165
+2 5 227
+3 3 283
 valid
-94
-10
+330
+999999
 Borne superieure
 *** Laure Feuillet & Mael Plantec ***
