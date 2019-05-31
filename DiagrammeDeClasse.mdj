@@ -2367,7 +2367,7 @@
 							"top": 464,
 							"width": 473,
 							"height": 160,
-							"text": "lecture(nomFichier) : evacuation, graphe\naffichage(evacuation, graphe) : void\nverification(evacuation, graphe, solution) : result\nlectureSolution(nomFichierSolution) : solution\naffichageSolution(solution) : void\ncreationGantt(evacuation, graphe, solution, valFctObjectif): void\naffichageGantt(gantt) : void\necritureSolution(nomFichierSolution, solution): void\nborneInf(nomFichier, evacuation, graphe): borneInfSolution\nborneSup(nomFichier, evacuation, graphe): borneSupSolution"
+							"text": "lecture(nomFichier) : evacuation, graphe\naffichage(evacuation, graphe) : void\nverification(evacuation, graphe, solution) : bool\nlectureSolution(nomFichierSolution) : solution\naffichageSolution(solution) : void\ncreationGantt(evacuation, graphe, solution): void\naffichageGantt(gantt) : void\necritureSolution(nomFichierSolution, solution): void\nborneInf(nomFichier, evacuation, graphe): borneInfSolution\nborneSup(nomFichier, evacuation, graphe): borneSupSolution"
 						},
 						{
 							"_type": "UMLNoteView",
